@@ -31,4 +31,3 @@ Operations Analysis · Process Improvement · KPI Reporting · Workflow Automati
 [LinkedIn](https://www.linkedin.com/in/miguelgomeze/)  
 Email: miguelgomeze17@gmail.com
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mge-17&show_icons=true&locale=en)
