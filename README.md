@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Gomez</h1>
-<h3 align="center">A passionate Business Startegist with a passion for data and analytics</h3>
+<h3 align="center">Warranty & Operations Analyst at Toromont Cat · Python · SQL · Building tools that solve real operational problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mge-17&label=Profile%20views&color=0e75b6&style=flat" alt="mge-17" /> </p>
 
